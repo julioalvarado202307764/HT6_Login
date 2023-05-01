@@ -1,0 +1,12 @@
+usuario,contrasena
+usuario,contrasena
+usuario1,contrasena
+usuario,usuario
+usuario2,usuario
+Julio,Nintendo24
+julio,nintendo24
+julio,julio
+julio,nintendo
+julio,julio
+julio,julio
+Eduardo,julio
